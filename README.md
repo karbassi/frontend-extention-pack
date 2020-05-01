@@ -16,3 +16,4 @@
 - [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=zignd.html-css-class-completion)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
