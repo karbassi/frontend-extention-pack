@@ -1,7 +1,7 @@
 {
   "name": "frontend-extension-pack",
-  "displayName": "frontend-extension-pack",
-  "description": "Frontend Extension Packs",
+  "displayName": "Frontend Extension Pack",
+  "description": "An up-to-date list of useful extentions for frontend developers.",
   "publisher": "karbassi",
   "repository": {
     "type": "git",
