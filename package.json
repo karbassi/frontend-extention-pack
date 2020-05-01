@@ -2,7 +2,12 @@
   "name": "frontend-extension-pack",
   "displayName": "frontend-extension-pack",
   "description": "Frontend Extension Packs",
-  "version": "0.0.1",
+  "publisher": "karbassi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karbassi/frontend-extention-pack"
+  },
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.44.0"
   },
