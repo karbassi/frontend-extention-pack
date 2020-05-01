@@ -1,0 +1,30 @@
+{
+  "name": "frontend-extension-pack",
+  "displayName": "frontend-extension-pack",
+  "description": "Frontend Extension Packs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "BriteSnow.vscode-toggle-quotes",
+    "ChakrounAnas.turbo-console-log",
+    "CoenraadS.bracket-pair-colorizer",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "HookyQR.beautify",
+    "mkaufman.htmlhint",
+    "msjsdiag.debugger-for-chrome",
+    "pranaygp.vscode-css-peek",
+    "ritwickdey.LiveServer",
+    "techer.open-in-browser",
+    "xabikos.JavaScriptSnippets",
+    "zignd.html-css-class-completion"
+  ]
+}
