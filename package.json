@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/karbassi/frontend-extention-pack"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.44.0"
   },
@@ -22,7 +22,7 @@
     "dbaeumer.vscode-eslint",
     "ecmel.vscode-html-css",
     "esbenp.prettier-vscode",
-    "formulahendry.auto-rename-tag",
+    "gruntfuggly.todo-tree",
     "HookyQR.beautify",
     "mkaufman.htmlhint",
     "msjsdiag.debugger-for-chrome",
@@ -30,7 +30,6 @@
     "ritwickdey.LiveServer",
     "techer.open-in-browser",
     "xabikos.JavaScriptSnippets",
-    "zignd.html-css-class-completion",
-    "gruntfuggly.todo-tree"
+    "zignd.html-css-class-completion"
   ]
 }
