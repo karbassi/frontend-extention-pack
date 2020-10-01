@@ -17,6 +17,7 @@
 - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.htmlhint)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+- [W3C Validation](https://marketplace.visualstudio.com/items?itemName=umoxfo.vscode-w3cvalidation)
 
 ## Language Support, Snippets, and Helpers
 
