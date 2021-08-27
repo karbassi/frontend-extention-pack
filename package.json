@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/karbassi/frontend-extention-pack"
   },
-  "version": "1.3.0",
+  "version": "1.4.0",
   "engines": {
     "vscode": "^1.44.0"
   },
@@ -28,8 +28,11 @@
     "pranaygp.vscode-css-peek",
     "ritwickdey.LiveServer",
     "sleistner.vscode-fileutils",
+    "stylelint.vscode-stylelint",
+    "tamj0rd2.ts-quickfixes-extension",
     "techer.open-in-browser",
     "umoxfo.vscode-w3cvalidation",
+    "usernamehw.errorlens",
     "xabikos.JavaScriptSnippets",
     "zignd.html-css-class-completion"
   ]
