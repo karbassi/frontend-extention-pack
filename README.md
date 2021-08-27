@@ -12,7 +12,6 @@
 
 ## Testing, Debugging, and Linting
 
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.htmlhint)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -31,3 +30,4 @@
 ## Other
 
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
