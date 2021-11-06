@@ -3,6 +3,7 @@
   "displayName": "Frontend Extension Pack",
   "description": "An up-to-date list of useful extentions for frontend developers.",
   "publisher": "karbassi",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/karbassi/frontend-extention-pack"
