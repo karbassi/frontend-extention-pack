@@ -8,7 +8,6 @@
 ## Visual
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 ## Testing, Debugging, and Linting
@@ -19,7 +18,6 @@
 - [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [TS QuickFixes](https://marketplace.visualstudio.com/items?itemName=tamj0rd2.ts-quickfixes-extension)
-- [W3C Validation](https://marketplace.visualstudio.com/items?itemName=umoxfo.vscode-w3cvalidation)
 
 ## Language Support, Snippets, and Helpers
 

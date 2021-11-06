@@ -7,9 +7,9 @@
     "type": "git",
     "url": "https://github.com/karbassi/frontend-extention-pack"
   },
-  "version": "1.4.0",
+  "version": "1.5.0",
   "engines": {
-    "vscode": "^1.44.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Extension Packs"
@@ -18,7 +18,6 @@
     "aaron-bond.better-comments",
     "BriteSnow.vscode-toggle-quotes",
     "ChakrounAnas.turbo-console-log",
-    "CoenraadS.bracket-pair-colorizer",
     "dbaeumer.vscode-eslint",
     "ecmel.vscode-html-css",
     "esbenp.prettier-vscode",
@@ -31,7 +30,6 @@
     "stylelint.vscode-stylelint",
     "tamj0rd2.ts-quickfixes-extension",
     "techer.open-in-browser",
-    "umoxfo.vscode-w3cvalidation",
     "usernamehw.errorlens",
     "xabikos.JavaScriptSnippets",
     "zignd.html-css-class-completion"
